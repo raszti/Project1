@@ -1,0 +1,7 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+ I ve learned the meaning of different tags, how to use them, and where to look for more options. The project was easy so far, but sometimes it is a bit difficult to remember when to use the closing tag, and when just a simple /> or nothing. The new tags i met in this project is the <del>, <sup>, <hr> tags but some websites were useful to find the solutions through text editing examples.
